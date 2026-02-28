@@ -1,8 +1,19 @@
 {
   "name": "jadlis-advisor-nupp",
   "description": "NUPP project advisor — diagnoses any project situation using 6 nearly universal principles underlying all major PM methodologies",
-  "version": "1.0.0",
-  "author": { "name": "beCyborg" },
+  "version": "1.1.0",
+  "author": {
+    "name": "beCyborg"
+  },
   "repository": "https://github.com/beCyborg/Jadlis-Advisor-NUPP",
-  "keywords": ["project-management", "nupp", "methodology", "prince2", "scrum", "pmbok", "agile"]
+  "keywords": [
+    "jadlis-advisor",
+    "project-management",
+    "nupp",
+    "methodology",
+    "prince2",
+    "scrum",
+    "pmbok",
+    "agile"
+  ]
 }
